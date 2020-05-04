@@ -25,6 +25,7 @@ Simple network player for DLNA/UPnP devices allows you discover devices and play
  - [x] Marantz MR611
  - [x] [Kodi](https://kodi.tv/)
  - [ ] [Volumio2](https://github.com/volumio/Volumio2) (?)
+ - [x] Xiaomi TV
  * _please email me if it works or doesn't work with your device_
  
 ## Usage
