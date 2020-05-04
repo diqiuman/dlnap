@@ -1,4 +1,4 @@
-# dlnap https://github.com/cherezov/dlnap.git
+# dlnap https://github.com/cherezov/dlnap
 Enjoy music on your favorite sound system or share a picture or YouTube video with your folks and friends on smart TV.
 Simple network player for DLNA/UPnP devices allows you discover devices and playback media on them. 
 
